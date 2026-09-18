@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my firt 2nd got repository
+This is my Second git repository.
+Author :-Rahul Chauhan
